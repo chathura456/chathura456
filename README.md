@@ -1,6 +1,12 @@
 
 # 💫 Hi there, I'm Chathura 👋
-Third-year Software Engineering student, mobile app developer, and programmer with over 5 years of experience in graphic designing and 2 years of experience with UI/UX designing. My passion for coding brought me to NSBM Green University where I am working on my bachelor's degree.<br><br>Currently, I am working on a few mobile app development projects and a desktop app development project. I typically use Flutter for mobile app development and Figma for UI/UX designing and prototyping. Also, I have good knowledge of web development and programming languages such as JavaScript, PHP, HTML, C#, Java, Kotlin, and Python.<br><br>I'm Interested in AI, IoT, and new technologies. These days, I spend my free time learning those things and searching for the latest news on them.
+Software Engineering Graduate (Second Upper Class) and full-stack developer with 1 year of industry experience in mobile application development using Flutter. My passion for coding led me to pursue a bachelor's degree at NSBM Green University, where I successfully graduated with second upper class honors.
+
+During my academic journey, I gained hands-on experience in full-stack development, working on both front-end and back-end technologies. I am proficient in Flutter for mobile app development and have a strong foundation in programming languages such as JavaScript, PHP, HTML, C#, Java, Kotlin, and Python. Additionally, I use Figma for UI/UX design and prototyping to create user-friendly and visually appealing applications.
+
+Currently, I am working as a freelancer, further expanding my expertise in full-stack development while taking on diverse projects. My industry experience includes building scalable and efficient mobile applications, and I am passionate about leveraging my skills to deliver high-quality solutions.
+
+I am deeply interested in AI, IoT, and emerging technologies, and I dedicate my free time to learning about these fields and staying updated with the latest advancements. My goal is to continue growing as a professional, contributing to innovative projects, and making an impact in the tech industry.
 
 
 
